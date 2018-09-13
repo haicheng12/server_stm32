@@ -1,0 +1,11 @@
+--create .\Objects\main.lib
+.\objects\main.o
+.\objects\can.o
+.\objects\usart.o
+.\objects\stmflash.o
+.\objects\time.o
+.\objects\key.o
+.\objects\led.o
+.\objects\algorithm.o
+.\objects\delay.o
+.\objects\nvic.o
